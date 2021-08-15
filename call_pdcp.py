@@ -1,0 +1,2 @@
+from pdcp import receive_PDCP_PDU
+receive_PDCP_PDU('0x123456789abcdef123456789abcdef123456789abcdef123456789abcdef123456789abcdef123456789abcdef123456789abcdef')
